@@ -4,9 +4,9 @@
 ### Python
 
 1. Generating Keywords for Google Ads
-  &nbsp;&nbsp;&nbsp;&nbsp;Automatically generate keywords for a search engine marketing campaign using Python.
+> Automatically generate keywords for a search engine marketing campaign using Python.
 2. Predicting Credit Card Approvals
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build a machine learning model to predict if a credit card application will get approved.
+> Build a machine learning model to predict if a credit card application will get approved.
 
 
 ### SQL 
